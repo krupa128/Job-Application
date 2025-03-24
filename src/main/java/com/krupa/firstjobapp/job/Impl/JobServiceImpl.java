@@ -1,4 +1,4 @@
-package com.krupa.firstjobapp.Impl;
+package com.krupa.firstjobapp.job.Impl;
 
 import com.krupa.firstjobapp.job.Job;
 import com.krupa.firstjobapp.job.JobRepository;
